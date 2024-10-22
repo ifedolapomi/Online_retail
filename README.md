@@ -30,8 +30,20 @@ Use SQL queries to answer the following questions:
 
 -How many unique products has each customer purchased?
 
--Which customers have only made a single purchase from the company?
+-number of unique products
+-numbers of customers
 
+-Which customers have only made a single purchase from the company?
 -Which products are most commonly purchased together by customers in the dataset?
+-What is the total revenue generated from all transactions?
+-count of country
+-Which customers have generated the highest revenue?
+-Which products are most popular in each country?
+-How many customers made repeat purchases?
+-Which products have been sold the most in terms of quantity?
+
+
+
+
 
 ** This project idea is from [projectpro.io](https://www.projectpro.io/article/sql-database-projects-for-data-analysis-to-practice/565) and the dataset is from (https://archive.ics.uci.edu/dataset/352/online+retail)
