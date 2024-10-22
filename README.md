@@ -34,12 +34,19 @@ Use SQL queries to answer the following questions:
 -numbers of customers
 
 -Which customers have only made a single purchase from the company?
+
 -Which products are most commonly purchased together by customers in the dataset?
+
 -What is the total revenue generated from all transactions?
+
 -count of country
+
 -Which customers have generated the highest revenue?
+
 -Which products are most popular in each country?
+
 -How many customers made repeat purchases?
+
 -Which products have been sold the most in terms of quantity?
 
 
